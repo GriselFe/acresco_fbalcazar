@@ -7,8 +7,8 @@ let a, s;
 switch (hostname) {
 	case 'localhost':
 	case '127.0.0.1':
-		a = 'http://localhost/acresco/saldos-api/public/api/';
-		s = 'http://localhost/acresco/saldos-api/public/';
+		a = 'http://localhost/acresco_fbalcazar/saldos-api/public/api/';
+		s = 'http://localhost/acresco_fbalcazar/saldos-api/public/';
 		break;
 	default:
 		a = protocol + '//api' + hostname + '/public/api/';
