@@ -1,40 +1,4 @@
-Framework material:
-https://material-ui.com/es/
+Modificar el archivo ubicado en src/settings/config/config.js para la correcta ubicación de las carpetas
+y consuma de forma correcta los webservices
 
-Para los iconos:
-https://material-ui.com/components/material-icons/
-
-Para el appbar:
-https://material-ui.com/components/app-bar/#app-bar
-
-Boton flotante:
-https://material-ui.com/components/buttons/#floating-action-buttons
-
-Modales:
-https://material-ui.com/es/components/dialogs/#di%C3%A1logos
-
-input, select
-https://material-ui.com/es/components/text-fields/
-
-checkbox
-https://material-ui.com/es/components/checkboxes/
-
-Menu:
-https://material-ui.com/es/components/drawers/
-
-
-
-
-
-Entrar a CMD o en la Terminal
-
-1.- Correr 'npm install' instalar paquetes
-2.- Correr 'npm start' iniciar el servidor con puesto 3000
-3.- Correr 'npm run build' general la compilación de código
-
-
-Carpetas y archivos principales:
-- archivo Header.js: Se definen los items del menu
-- archivo route.js: se incluyen las vistas de la carpeta components, si no se hace no se mostrara la vista
-- carpeta components: vistas, hacen uso de la carpeta service
-- carpeta services: funciones para conectar a la api
+ejecutar el comando npm install para instalar los modulos
