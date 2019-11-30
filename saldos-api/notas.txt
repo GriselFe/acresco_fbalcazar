@@ -1,0 +1,14 @@
+
+
+Carpetas y archivos principales:
+- colocar esta carpeta en htdocs o en www
+- instalar composer en tu pc/lap
+- si abres composer.json con phpstorm te aparecera install en la parte superior derecha
+- archivo laravel.sql: importar con phpmyadmin
+- archivo .env: Configurar la conexion con mysql
+- archivo webservices.txt: ejemplos sencillos de los servicios
+- archivo routes/api.php: se definen los webservice
+- archivo app/Http/Middleware/Cors.php: se especifican las cabeceras para evitar errores como 'blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.'
+- carpeta app/Http/Controllers/* : para que programes lo que quieras jajajajaja
+
+Nota: el login esta echo simple solo para solventar el ejemplo, hay mejores formas para realizar la autenticación ver documentación de laravel
