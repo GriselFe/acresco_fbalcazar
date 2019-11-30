@@ -1,0 +1,4 @@
+usuarios para poder acceder como administrador
+
+usuario: fernanda
+contraseña: 123456
